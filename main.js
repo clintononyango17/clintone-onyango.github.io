@@ -1,0 +1,1 @@
+console.log('Website ready for Clintone Ochieng Onyango');
